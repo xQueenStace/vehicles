@@ -65,7 +65,7 @@ QBShared.Vehicles = {
 		['shop'] = 'nfs',
 	},
 	['sgmann'] = {
-		['name'] = 'Livfted Escalade',
+		['name'] = 'Lifted Escalade',
 		['brand'] = 'Cadillac',
 		['model'] = 'sgmann',
 		['price'] = 400000,
@@ -74,8 +74,8 @@ QBShared.Vehicles = {
 		['shop'] = 'nfs',
 	},
 	['2500hd'] = {
-		['name'] = '2500hd',
-		['brand'] = '2500hd',
+		['name'] = 'Siverado 2500HD PD',
+		['brand'] = 'Chevrolet',
 		['model'] = '2500hd',
 		['price'] = 400000,
 		['category'] = 'emergency',
